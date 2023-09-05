@@ -1,16 +1,47 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**MaksymMaliuk/MaksymMaliuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a shared bn development account, and I represent an avatar of an average software engineer of [bn digital](httpe://bndigital.co). We are a design-driven studio passionate about solving problems. We help startups and smart companies to provide top-notch experiences in the digital world. 
 
-Here are some ideas to get you started:
+### My specialty
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have extensive experience in developing scalable web applications using the latest technologies and frameworks.  
+I enjoy building scalable systems that people love using. 
+
+### My tech stack and toolset
+
+At bn digital, we believe that the most value is brought by modern yet reliable tools, automation of development processes, and high user experience standards.
+
+#### Languages
+
+![](https://img.shields.io/badge/JavaScript-Language-informational?style=flat-square&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/TypeScript-Dialect-informational?style=flat-square&logo=typescript&logoColor=white&color=2bbc8a)
+
+#### IDE
+![](https://img.shields.io/badge/Editor-VScode?style=flat-square&logo=visualstudiocode&label=VScode&color=2bbc8a)
+
+#### Front-end
+![](https://img.shields.io/badge/React-Framework-informational?style=flat-square&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/HTML-Language-informational?style=flat-square&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Library-JavaScript?style=flat-square&logo=redux&label=Redux&color=2bbc8a)
+![](https://img.shields.io/badge/NextJS-Framefork-informational?style=flat-square&logo=nextdotjs&label=Next%20JS&color=2bbc8a)
+
+![](https://img.shields.io/badge/CSS-Language-informational?style=flat-square&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/SASS-Dialect-informational?style=flat-square&logo=sass&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Chakra%20UI-Library-informational?style=flat-square&logo=chakraui&label=Chakra%20UI&color=2bbc8a)
+![](https://img.shields.io/badge/Tailwind_UI-UI_Framework-informational?style=flat-square&logo=tailwindcss&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Bootstrap-UI_Framework-informational?style=flat-square&logo=bootstrap&logoColor=white&color=2bbc8a)
+
+#### Back-end
+![](https://img.shields.io/badge/Node.js-Framework-informational?style=flat-square&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/PostgreSQL-Database-informational?style=flat-square&logo=postgresql&logoColor=white&color=2bbc8a)
+
+## About bn digital
+
+BN Digital is a design-driven studio passionate about solving problems. We help startups and smart companies to provide top-notch experiences in the digital world. We are designers and engineers who make others' lives happier.
+
+Please feel free to reach out to us!
+[https://bndigital.co](https://bndigital.co)
+[Dribbble](https://dribbble.com/bndigital)
+[Behance](https://www.behance.net/bn_digital)
+[Linkedin](https://www.linkedin.com/company/bndigital-llc)
